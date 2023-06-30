@@ -1,2 +1,6 @@
-package org.example;public class Gender {
+package org.example;
+
+public enum Gender {
+    MALE,
+    FEMALE
 }
